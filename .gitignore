@@ -1,8 +1,7 @@
 #application file 
-towerOfHanoi.exe
+*.exe
 # O.file
-**.o
-!important/*.exe
+*.o
 
 
 
